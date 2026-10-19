@@ -22,18 +22,17 @@ A Python application that converts Python code into OCR A-Level style pseudocode
 ## Screenshots
 
 ### Main Interface
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9e2f57b0-2198-4a0e-8738-9f18b0d4da7e" />
+<img width="2022" height="905" alt="image" src="https://github.com/user-attachments/assets/408b0576-ad50-45f7-9ca8-1218c6fcb014" />
 
 
 ### Python Input
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/40529066-722f-4b66-b549-6c740b48b7da" />
+<img width="2022" height="905" alt="image" src="https://github.com/user-attachments/assets/a3034647-153c-4bf1-bd12-bc2a8826e711" />
 
 
 ### Converted Pseudocode
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f4fd1bd9-ad6c-4f7a-9211-4e0f1c4a4d0e" />
+<img width="2022" height="905" alt="image" src="https://github.com/user-attachments/assets/eceb137b-8163-4d42-b543-2568e32d94a7" />
 
 
-To add your own screenshots, create a folder called `screenshots` in the project directory and save your images using the filenames shown above.
 
 ## Requirements
 
